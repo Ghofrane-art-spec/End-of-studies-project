@@ -5,5 +5,7 @@ this website enables the bank's clients and agents to track checks mouvement and
 Frameworks: 
 
 Frontend:Angular
+
 Backend:Spring Boot
+
 Database management system:MySQL
